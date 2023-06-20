@@ -1,0 +1,1 @@
+# 14-06-2023-Maven-Project-as-a-dependency-in-another-Maven-Project
